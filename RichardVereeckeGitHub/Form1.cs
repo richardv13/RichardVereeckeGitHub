@@ -20,7 +20,8 @@ namespace RichardVereeckeGitHub
         private void buttonGithub_Click(object sender, EventArgs e)
         {
             //knop aangemaakt lokaal door Richard
-            //wijziging Khunga
+            //I was the one for you, you was the one for me
+            //Why the fuck did you cheat on me?
         }
     }
 }
