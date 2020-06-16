@@ -16,5 +16,10 @@ namespace RichardVereeckeGitHub
         {
             InitializeComponent();
         }
+
+        private void buttonGithub_Click(object sender, EventArgs e)
+        {
+            //knop aangemaakt lokaal door Richard
+        }
     }
 }
