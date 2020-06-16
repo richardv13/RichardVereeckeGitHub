@@ -20,6 +20,7 @@ namespace RichardVereeckeGitHub
         private void buttonGithub_Click(object sender, EventArgs e)
         {
             //knop aangemaakt lokaal door Richard
+            //wijziging Khunga
         }
     }
 }
